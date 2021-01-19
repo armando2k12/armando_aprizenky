@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "583103470578",
+    "firebase_url": "https://armandofoods-f84d8-default-rtdb.firebaseio.com",
+    "project_id": "armandofoods-f84d8",
+    "storage_bucket": "armandofoods-f84d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583103470578:android:bfe7874a2176f490d1696b",
+        "android_client_info": {
+          "package_name": "com.armando.armandoFoods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583103470578-fe4mqsufd1ivgfmr06dhralqsj971bfm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.armando.armandoFoods",
+            "certificate_hash": "9ae67fa461771b96660ac146892fe2ed7a52f35e"
+          }
+        },
+        {
+          "client_id": "583103470578-gqt8qr31bmd7a66a29u8pi2av5ij25f4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaDEcT_pFBITY_ttTsPuUe3CV1XllpBk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583103470578-gqt8qr31bmd7a66a29u8pi2av5ij25f4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
